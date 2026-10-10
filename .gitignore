@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+.venv/
+
+# Runtime logs
+logs/*
+!logs/.gitkeep
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment variables / secrets
+.env
